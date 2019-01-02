@@ -1,0 +1,4 @@
+Tutaj będziemy ustalać wygląd strony.
+
+Stworzyłam szkielet kodu html, który potem będziemy dostosowywać wedle naszej wizji. Nagłówek jest zwykłą grafiką poglądową wykonaną w
+programie inkscape, aby mieć wizualizację całości. ~Maja 
