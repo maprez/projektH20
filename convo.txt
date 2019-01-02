@@ -1,4 +1,6 @@
 Tutaj będziemy ustalać wygląd strony.
 
 Stworzyłam szkielet kodu html, który potem będziemy dostosowywać wedle naszej wizji. Nagłówek jest zwykłą grafiką poglądową wykonaną w
-programie inkscape, aby mieć wizualizację całości. ~Maja 
+programie inkscape, aby mieć wizualizację całości. 
+Generalnie, poza dalszym kodem, treścią i dostosowaniem wyglądu trzeba też będzie rzucić okiem na menu w wersji responsywnej, bo po zabawie nim w wersji mobilnej, po powrocie na pełen rozmiar, menu znika.
+~Maja 
